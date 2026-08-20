@@ -1,7 +1,4 @@
 # QELVANT
-QELVANT — An indie quiz game by TNT MEMEFORGE STUDIO.
-
-# QELVANT
 
 > An indie quiz game by TNT MEMEFORGE STUDIO.
 
@@ -9,18 +6,13 @@ QELVANT — An indie quiz game by TNT MEMEFORGE STUDIO.
 
 QELVANT is an indie quiz game currently in development.
 
-## 🚧 Development Status
+## 🚧 Status
 
 **In Development**
 
-## 🛠️ Development
+## 🏢 Studio
 
-QELVANT is being developed by TNT MEMEFORGE STUDIO.
-
-## 📺 Media
-
-- YouTube
-- Facebook
+Developed by **TNT MEMEFORGE STUDIO**.
 
 ## 🗺️ Roadmap
 
@@ -29,6 +21,11 @@ QELVANT is being developed by TNT MEMEFORGE STUDIO.
 - [ ] Alpha 0.3
 - [ ] Beta
 - [ ] Release 1.0
+
+## 📺 Official Media
+
+- YouTube
+- Facebook
 
 ---
 
